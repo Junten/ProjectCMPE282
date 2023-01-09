@@ -9,7 +9,7 @@
   "author": "Sangwon Song",
   "license": "ISC",
   "dependencies": {
-    "@okta/oidc-middleware": "^2.0.0",
+    "@okta/oidc-middleware": "^5.0.0",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
